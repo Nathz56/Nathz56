@@ -2,7 +2,7 @@
 
 <p align="left">
 🧩 Studying Software Engineering <br/>
-🍏 Currently diving deep into the iOS ecosystem using SwiftUI
+🍏 Currently focusing my learning on iOS environment
 </p>
 
 ---
