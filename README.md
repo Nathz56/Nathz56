@@ -1,5 +1,6 @@
 # Hello! I'm Yonathan!
-🔥 Studying Software Engineer
+
+🔥 Studying Software Engineer<br/>
 🍎 Currently focusing my learn on iOS Environment
 ---
 ## 🔧 Tech Stack
