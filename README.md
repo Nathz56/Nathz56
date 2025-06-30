@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello! I'm Yonathan!
+🔥 Studying Software Engineer
+🍎 Currently focusing my learn on iOS Environment
+---
+## 🔧 Tech Stack
 
-<!--
-**Nathz56/Nathz56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://img.shields.io/badge/Swift-%23FA7343?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nathz56&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF88&text_color=FFFFFF&icon_color=00FF88" width="49%" alt="GitHub Stats" />
+</p>
+---
