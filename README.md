@@ -11,7 +11,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-%23FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
