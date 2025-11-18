@@ -22,15 +22,3 @@
 </h1>
 
 ---
-
-## 📊 GitHub Statistics (Neon)
-
-### 🟩 Commit Activity Calendar (Squares + Months)
-![Neon Contribution Calendar](https://github-contributions.vercel.app/api/v1/Nathz56?format=svg&color=00ff88&bg=000000&hide_border=true)
-
-### 🔥 Streak Stats (Neon)
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Nathz56&theme=highcontrast&background=000000&border=000000&ring=00FF88&fire=00FF88&currStreakLabel=FFFFFF" width="49%" />
-</p>
-
----
