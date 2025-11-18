@@ -16,14 +16,7 @@
   <img src="https://img.shields.io/badge/UIKit-%23007AFF?style=for-the-badge&logo=apple&logoColor=white"/>
 
 </p>
-
----
-
-## 📊 GitHub Statistics
-
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nathz56&theme=react-dark&hide_border=true)
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nathz56&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF88&text_color=FFFFFF&icon_color=00FF88" width="49%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Nathz56&theme=dark&hide_border=true&background=000000&ring=00FF88&fire=00FF88&currStreakLabel=FFFFFF" width="49%"/>
 </p>
-
-
----
