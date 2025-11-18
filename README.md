@@ -17,14 +17,20 @@
 
 ---
 
-## 📊 GitHub Statistics (Neon Theme)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=🪀+Hello%2C+I'm+Yonathan!;iOS+Developer+in+Training;Neon+Powered+Coding+Energy" alt="Neon Typing SVG" />
+</h1>
 
-### 📈 Commit Activity (Based on Push Date)
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nathz56&theme=github-compact&area=true&bg_color=000000&color=00FF88&line=00FF88&point=FFFFFF&hide_border=true)
+---
 
-### 🔥 Streak Stats (Commit-Date Based)
+## 📊 GitHub Statistics (Neon)
+
+### 🟩 Commit Activity Calendar (Squares + Months)
+![Neon Contribution Calendar](https://github-contributions.vercel.app/api/v1/Nathz56?format=svg&color=00ff88&bg=000000&hide_border=true)
+
+### 🔥 Streak Stats (Neon)
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Nathz56&theme=highcontrast&background=000000&border=000000&ring=00FF88&fire=00FF88&currStreakLabel=FFFFFF" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=Nathz56&theme=highcontrast&background=000000&border=000000&ring=00FF88&fire=00FF88&currStreakLabel=FFFFFF" width="49%" />
 </p>
 
 ---
