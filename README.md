@@ -2,7 +2,6 @@
 
 <p align="left">
 🧩 Studying Software Engineering <br/>
-🍏 Currently focusing my learning on iOS environment and doing my finals in react!
 </p>
 
 ---
